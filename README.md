@@ -44,13 +44,6 @@ ISTQB Advanced Test Manager (CTAL-TM) certified, with strong ownership of releas
 
 ---
 
-### GitHub activity
-
-[![Ayesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayesha-test&show_icons=true&hide_border=true)](https://github.com/ayesha-test)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayesha-test&layout=compact&hide_border=true)](https://github.com/ayesha-test)
-
----
-
 ### Experience
 
 | Role | Company | When |
