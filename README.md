@@ -1,6 +1,6 @@
 # Ayesha Chishti
 
-### Principal SDET · Quality Engineering & Test Automation Leadership
+### Senior SDET · Quality Engineering & Test Automation Leadership
 
 Quality engineering and test automation leader with 9+ years defining and driving QA strategy across web, mobile, cloud and distributed systems. I work automation-first and shift-left, architecting scalable, maintainable test frameworks and embedding automated testing at unit, integration, API and UI levels within CI/CD to cut regression overhead and speed up high-quality releases.
 
